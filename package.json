@@ -2,21 +2,9 @@
   "name": "leafer-unified",
   "version": "1.0.0",
   "description": "A union entrypoint of leafer for both browser and Node.js.",
-  "exports": {
-    "browser": "./browser.js",
-    "node": "./node.js",
-    "require": "./require.cjs",
-    "default": "./browser.js"
+  "scripts": {
+    "publish": "npm publish publish/ --registry https://registry.npmjs.org"
   },
-  "type": "module",
   "author": "kooriookami",
-  "license": "MIT",
-  "devDependencies": {
-    "leafer": "*",
-    "@leafer/node": "*"
-  },
-  "peerDependencies": {
-    "leafer": "*",
-    "@leafer/node": "*"
-  }
+  "license": "MIT"
 }
