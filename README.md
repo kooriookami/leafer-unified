@@ -1,6 +1,6 @@
 # leafer-unified
 
-A union entrypoint of [Leafer](https://www.leaferjs.com/) for both ESModule and Commonjs.
+A union entrypoint of [Leafer](https://www.leaferjs.com/) for both browser and Node.js.
 
 ## Install
 
