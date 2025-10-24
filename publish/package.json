@@ -1,6 +1,6 @@
 {
   "name": "leafer-unified",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A union entrypoint of leafer for both browser and Node.js.",
   "exports": {
     "browser": "./browser.js",
@@ -9,6 +9,14 @@
     "default": "./browser.js"
   },
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kooriookami/leafer-unified"
+  },
+  "keywords": [
+    "leafer-unified",
+    "leafer"
+  ],
   "author": "kooriookami",
   "license": "MIT",
   "devDependencies": {
