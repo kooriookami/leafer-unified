@@ -5,6 +5,8 @@ A union entrypoint of [Leafer](https://www.leaferjs.com/) for both ESModule and 
 ## Install
 
 `npm install leafer-unified`
+`npm install leafer`
+`npm install @leafer/node`
 
 ## Start
 

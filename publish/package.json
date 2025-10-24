@@ -1,6 +1,6 @@
 {
   "name": "leafer-unified",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A union entrypoint of Leafer for both browser and Node.js.",
   "exports": {
     "browser": "./browser.js",
