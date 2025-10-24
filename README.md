@@ -4,9 +4,11 @@ A union entrypoint of [Leafer](https://www.leaferjs.com/) for both browser and N
 
 ## Install
 
-`npm install leafer-unified`
-`npm install leafer`
-`npm install @leafer/node`
+```
+npm install leafer-unified
+npm install leafer
+npm install @leafer/node
+```
 
 ## Start
 
